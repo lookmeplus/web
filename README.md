@@ -1,1 +1,2 @@
-# mindows.com
+关于此库
+此库即在部署网站，也在不是minecraft服务器
